@@ -1,0 +1,14 @@
+MLO Creator by LeMoNeL - V1.5.3 Community Beta
+
+- World Explorer with local GTA V map streaming, nearby HD and distant LOD/SLOD.
+- Direct building selection into a new interior project.
+- Map resource creation, categorized prop catalog, movement, rotation and flags.
+- Object and map-light removal exports; collision viewing, editing and export.
+- Selective model, texture and YMAP XML export.
+- Weather/time presets, directional lighting and shadows.
+- Auto room detection, automatic window cutting and grouped blue-face selection.
+- Glass transparency controls and game-texture caching improvements.
+- Revised interface, resizable panels, camera controls and loading animations.
+- Fixed private-model exports by matching archetype names and streamed filenames.
+
+This is an unofficial community beta. Feedback and reproducible bug reports welcome.
